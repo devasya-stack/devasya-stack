@@ -22,7 +22,7 @@ Building production-ready applications with Python, FastAPI, React, and SQL.
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Electrical and Electronics Engineering student at **Jadavpur University**
+🎓 B.E. Electrical and Electronics Engineering student at **Jadavpur University**
 
 💼 Currently working as
 
