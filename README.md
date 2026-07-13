@@ -171,11 +171,11 @@ https://github.com/devasya-stack
 
 LinkedIn
 
-(Add your LinkedIn URL)
+www.linkedin.com/in/devasya-ojha-2b32493a1
 
 Email
 
-(Add your professional email)
+devasyaojha@gmail.com
 
 ---
 
