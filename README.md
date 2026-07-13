@@ -22,12 +22,12 @@ Building production-ready applications with Python, FastAPI, React, and SQL.
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Electrical Engineering student at **Jadavpur University**
+🎓 B.Tech Electrical and Electronics Engineering student at **Jadavpur University**
 
 💼 Currently working as
 
-- 🌐 Web Development Intern
-- 🤖 AI Intern
+- 🤖 Summer AI Intern
+- 🌐 Web Development Intern -- Axlero Solutions Pvt. Ltd.
 
 💡 Interested in
 
@@ -40,8 +40,8 @@ Building production-ready applications with Python, FastAPI, React, and SQL.
 🌱 Currently learning
 
 - Advanced DSA
-- Docker
-- CI/CD
+- MySql
+- MongoDb
 - System Design
 - Cloud Technologies
 
@@ -150,7 +150,7 @@ AI-powered intelligent interface project.
 - 🤖 AI-powered developer tools
 - 📈 Improving DSA & System Design
 - ☁️ Cloud deployment
-- 🐳 Docker & CI/CD
+- 🐳 Python Frameworks
 
 ---
 
