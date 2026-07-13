@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Devasya Ojha
 
-<!--
-**devasya-stack/devasya-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineering Student | Backend & AI Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech in Electrical Engineering @ Jadavpur University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently building:
+- AI Applications
+- Full Stack Web Apps
+- Backend APIs
+
+🚀 Tech Stack
+
+- Python
+- FastAPI
+- React
+- JavaScript
+- SQL
+- Git & GitHub
+
+🌱 Currently Learning
+
+- Data Structures & Algorithms
+- System Design
+- Docker
+- CI/CD
+
+🏆 Experience
+
+- Web Development Intern
+- AI Internship
+
+📫 Reach me
+
+- Email: devasyaojha@gmail.com
+- GitHub: https://github.com/devasya-stack
+
+---
+⭐ Thanks for visiting my profile!
