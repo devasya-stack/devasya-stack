@@ -143,15 +143,6 @@ AI-powered intelligent interface project.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devasya-stack&theme=tokyonight&margin-w=10&margin-h=10"/>
-
-</p>
-
----
 
 # 📚 Currently Working On
 
